@@ -1,3 +1,5 @@
+This project uses react context api with reducers. It also uses localStorage to store the data.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
